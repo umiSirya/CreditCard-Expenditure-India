@@ -1,5 +1,9 @@
 # Credit Card Spending India
-  In our Dataset we look at 4 different types of credit cards:
+
+The map visualizes transaction amounts across cities in India. The shading represents the total transaction amount, with darker colors indicating higher amounts. The color bar on the right shows the scale of transaction values, ranging from low (purple) to high (yellow-green).
+
+
+In our Dataset we look at 4 different types of credit cards:
 
   ![cardtype](https://github.com/user-attachments/assets/669afcce-3f6c-4cca-b57d-3979e3b662c7)
 
