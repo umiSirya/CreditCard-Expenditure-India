@@ -1,5 +1,8 @@
 # Credit Card Spending India
   In our Dataset we look at 4 different types of credit cards:
+
+  ![cardtype](https://github.com/user-attachments/assets/669afcce-3f6c-4cca-b57d-3979e3b662c7)
+
   
 ### Gold Card
 Offers a higher credit limit and more rewards compared to basic cards. Typically includes travel benefits, cashback, and discounts on purchases.
