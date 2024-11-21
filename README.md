@@ -22,12 +22,13 @@ A premium card offering higher credit limits, exclusive rewards, and luxury perk
 
 ### Signature Card
 A high-end credit card, usually by invitation, with exclusive privileges such as luxury lifestyle benefits, access to VIP events, and personalized services. These cards often come with a very high credit limit.
-## Expenditure Trend over the years
-## why did the total expenditure in india surge in 2014?
+## Expenditure Trend over the yearst
+
+## <p align="center"> why did the total expenditure in india surge in 2014?</p> 
 ![newplot (4)](https://github.com/user-attachments/assets/f3ef7fa8-f283-4065-83e1-cad217957de4)
 
-## Why does the data in this chart suggest that women in India had higher total expenditures than men in 2014?
 ![newplot (6)](https://github.com/user-attachments/assets/f795a2b1-3c0a-494b-9f35-b7267c032512)
+### Why does the data in this chart suggest that women in India had higher total expenditures than men in 2014?
 
 Women in India in 2014 likely spent more than men due to several societal and economic factors:  
 
@@ -53,7 +54,6 @@ In 2014, Bengaluru surpassed Greater Mumbai in total expenditure due to its boom
 4. **Consumer Spending**: The young, affluent population drove spending on lifestyle, entertainment, and e-commerce.  
 5. **Cultural and Social Factors**: Bengaluru's cosmopolitan culture and events attracted significant spending.  
 
-In contrast, Mumbai's expenditures leaned toward industries like banking and film, with less consumer-focused spending due to its higher cost of living and dense population.
 
 # Conclusion
 The surge in expenditures in India in 2014 compared to 2013 and 2015 can be attributed to several key factors:  
