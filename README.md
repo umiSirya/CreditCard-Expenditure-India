@@ -22,13 +22,15 @@ A premium card offering higher credit limits, exclusive rewards, and luxury perk
 
 ### Signature Card
 A high-end credit card, usually by invitation, with exclusive privileges such as luxury lifestyle benefits, access to VIP events, and personalized services. These cards often come with a very high credit limit.
-## Expenditure Trend over the yearst
 
-## <p align="center"> why did the total expenditure in india surge in 2014?</p> 
+### <p align="center"> Expenditure Trend over the years </p> 
+
+## why did the total expenditure in india surge in 2014?
 ![newplot (4)](https://github.com/user-attachments/assets/f3ef7fa8-f283-4065-83e1-cad217957de4)
 
-![newplot (6)](https://github.com/user-attachments/assets/f795a2b1-3c0a-494b-9f35-b7267c032512)
 ### Why does the data in this chart suggest that women in India had higher total expenditures than men in 2014?
+
+![newplot (6)](https://github.com/user-attachments/assets/f795a2b1-3c0a-494b-9f35-b7267c032512)
 
 Women in India in 2014 likely spent more than men due to several societal and economic factors:  
 
