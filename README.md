@@ -1,4 +1,5 @@
-# Credit Card Spending India
+# Credit Card Spending India  ![cards](https://github.com/user-attachments/assets/5075ac52-7e3b-4e80-842d-ff075c325a77)
+
 
 The map visualizes transaction amounts across cities in India. The shading represents the total transaction amount, with darker colors indicating higher amounts. The color bar on the right shows the scale of transaction values, ranging from low (purple) to high (yellow-green).
 The map highlights key cities and their respective transaction activity, showing concentrated higher activity in some regions due to urbanization or economic hubs like Mumbai, Delhi, and Kolkata
@@ -26,8 +27,8 @@ A high-end credit card, usually by invitation, with exclusive privileges such as
 ![newplot (4)](https://github.com/user-attachments/assets/f3ef7fa8-f283-4065-83e1-cad217957de4)
 
 ## Why does the data in this chart suggest that women in India had higher total expenditures than men in 2014?
-![newplot (5)](https://github.com/user-attachments/assets/e32377e1-7b49-4747-bb65-06b811932f09)
-![download](https://github.com/user-attachments/assets/a5bcdb27-009e-4805-a37f-575da5221fb7)
+![newplot (6)](https://github.com/user-attachments/assets/f795a2b1-3c0a-494b-9f35-b7267c032512)
+
 Women in India in 2014 likely spent more than men due to several societal and economic factors:  
 
 1. **Household Management Role**: Women traditionally manage household expenses, including bills, groceries, and food, which are significant contributors to overall expenditure.  
