@@ -1,7 +1,9 @@
 # Credit Card Spending India
 
 The map visualizes transaction amounts across cities in India. The shading represents the total transaction amount, with darker colors indicating higher amounts. The color bar on the right shows the scale of transaction values, ranging from low (purple) to high (yellow-green).
+The map highlights key cities and their respective transaction activity, showing concentrated higher activity in some regions due to urbanization or economic hubs like Mumbai, Delhi, and Kolkata
 
+![newplot (1)](https://github.com/user-attachments/assets/289cb880-0372-451c-af78-f9d277f4c877)
 
 In our Dataset we look at 4 different types of credit cards:
 
