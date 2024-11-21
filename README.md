@@ -1,4 +1,4 @@
-# ![cards](https://github.com/user-attachments/assets/5075ac52-7e3b-4e80-842d-ff075c325a77) Credit Card Spending India  
+# <img src="https://camo.githubusercontent.com/..." data-canonical-src="![cards](https://github.com/user-attachments/assets/5075ac52-7e3b-4e80-842d-ff075c325a77)" width="200" height="400" /> Credit Card Spending India  
 
 
 The map visualizes transaction amounts across cities in India. The shading represents the total transaction amount, with darker colors indicating higher amounts. The color bar on the right shows the scale of transaction values, ranging from low (purple) to high (yellow-green).
