@@ -24,7 +24,7 @@ India has a wide range of economic demographics, with individuals across various
 <li>Millennials and Gen Z populations form a significant part of India's consumer base, who prefer digital payments and card-based transactions over cash, leading to high usage across all card tiers.</li>
 
 ### Rise in Debit and Credit Card Usage: 
-The Indian government promoted financial inclusion through initiatives like the Pradhan Mantri Jan-Dhan Yojana (2014), which led to the issuance of over 300 million RuPay debit cards. This initiative allowed rural and urban populations to access banking facilities, boosting card transactions
+<li>The Indian government promoted financial inclusion through initiatives like the Pradhan Mantri Jan-Dhan Yojana (2014), which led to the issuance of over 300 million RuPay debit cards. This initiative allowed rural and urban populations to access banking facilities, boosting card transactions</li>
 
 
 ## <p align="center"> Expenditure Trend over the years </p> 
