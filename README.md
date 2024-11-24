@@ -8,20 +8,24 @@ The map highlights key cities and their respective transaction activity, showing
 
 In our Dataset we look at 4 different types of credit cards:
 
-  ![cardtype](https://github.com/user-attachments/assets/669afcce-3f6c-4cca-b57d-3979e3b662c7)
+![newplot](https://github.com/user-attachments/assets/13af201c-e6cc-4358-9337-f4cd736d0000)
 
-  
-### Gold Card
-Offers a higher credit limit and more rewards compared to basic cards. Typically includes travel benefits, cashback, and discounts on purchases.
+### Economic Diversity:
 
-### Silver Card 
-A basic level credit card with lower credit limits and fewer benefits than the gold card. It generally offers essential features like cashback and rewards.
+India has a wide range of economic demographics, with individuals across various income levels. This diversity leads to high usage across all card types:
+<li>Silver cards target basic users or entry-level customers.</li>
+<li>Gold and Platinum cards appeal to middle and upper-class customers with higher spending capacity.</li>
+<li>Signature cards are likely aimed at premium users, often business professionals or frequent travelers.</li>  
 
-### Platinum Card
-A premium card offering higher credit limits, exclusive rewards, and luxury perks such as access to airport lounges, concierge services, and higher cashback rates.
+### E-commerce Growth:
+<li>India's booming e-commerce sector (e.g., Flipkart, Amazon) has normalized the use of cards for online shopping, evenly driving up the transaction volumes across different card types.</li>
 
-### Signature Card
-A high-end credit card, usually by invitation, with exclusive privileges such as luxury lifestyle benefits, access to VIP events, and personalized services. These cards often come with a very high credit limit.
+### Consumer Trends:
+<li>Millennials and Gen Z populations form a significant part of India's consumer base, who prefer digital payments and card-based transactions over cash, leading to high usage across all card tiers.</li>
+
+### Rise in Debit and Credit Card Usage: 
+The Indian government promoted financial inclusion through initiatives like the Pradhan Mantri Jan-Dhan Yojana (2014), which led to the issuance of over 300 million RuPay debit cards. This initiative allowed rural and urban populations to access banking facilities, boosting card transactions
+
 
 ## <p align="center"> Expenditure Trend over the years </p> 
 
